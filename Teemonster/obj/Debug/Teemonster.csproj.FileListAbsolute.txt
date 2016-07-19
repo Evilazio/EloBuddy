@@ -1,0 +1,12 @@
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\Teemonster.exe.config
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\Teemonster.exe
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\Teemonster.pdb
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\EloBuddy.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\EloBuddy.SDK.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\SharpDX.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\Newtonsoft.Json.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\obj\Debug\Teemonster.exe
+c:\users\evilazio\documents\visual studio 2015\Projects\Teemonster\Teemonster\obj\Debug\Teemonster.pdb
+C:\Users\EVILAZIO\Documents\Visual Studio 2015\Projects\Teemonster\Teemonster\obj\Debug\Teemonster.csprojResolveAssemblyReference.cache
